@@ -9,7 +9,7 @@ Controls are pretty simple. Space to jump, double space to double jump, and A to
 Scoring in Slash Hero is measured in meters, you earn more meters the faster you go. Every 11 seconds your speed increases by 1. You start with 1 character, at 300 meters you will earn the red character, and at 700 meters you will earn the blue character.
 
 ## Playing Slash Hero
-Slash Hero is hosted on a [website](https://georgenasseem.github.io/slash-hero/) on github pages.
+Slash Hero is hosted on a [website](https://slash-hero.netlify.app) on netlify.
 
 ## Contacts
 Feel free to add any changes to the project.
